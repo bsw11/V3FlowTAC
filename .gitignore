@@ -1,0 +1,16 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+results
+npm-debug.log
+node_modules/*
+!node_modules/flowTacClient
+!node_modules/flowTacCommon
+!node_modules/flowTacServer
